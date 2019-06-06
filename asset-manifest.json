@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.705139df.chunk.css",
-    "main.js": "/static/js/main.c6be1afe.chunk.js",
-    "main.js.map": "/static/js/main.c6be1afe.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.195722e5.chunk.js": "/static/js/2.195722e5.chunk.js",
-    "static/js/2.195722e5.chunk.js.map": "/static/js/2.195722e5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.da1181feeea695f1d30444d8d11d8cae.js": "/precache-manifest.da1181feeea695f1d30444d8d11d8cae.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.705139df.chunk.css.map": "/static/css/main.705139df.chunk.css.map",
-    "static/media/Header.module.css": "/static/media/hero.be0d1f2b.jpg"
+    "main.css": "/paginated-table-github-pages/static/css/main.99d9231b.chunk.css",
+    "main.js": "/paginated-table-github-pages/static/js/main.5b159379.chunk.js",
+    "main.js.map": "/paginated-table-github-pages/static/js/main.5b159379.chunk.js.map",
+    "runtime~main.js": "/paginated-table-github-pages/static/js/runtime~main.4305a9e5.js",
+    "runtime~main.js.map": "/paginated-table-github-pages/static/js/runtime~main.4305a9e5.js.map",
+    "static/js/2.195722e5.chunk.js": "/paginated-table-github-pages/static/js/2.195722e5.chunk.js",
+    "static/js/2.195722e5.chunk.js.map": "/paginated-table-github-pages/static/js/2.195722e5.chunk.js.map",
+    "index.html": "/paginated-table-github-pages/index.html",
+    "precache-manifest.f86a41b957ed333da876d72ebb55f5f4.js": "/paginated-table-github-pages/precache-manifest.f86a41b957ed333da876d72ebb55f5f4.js",
+    "service-worker.js": "/paginated-table-github-pages/service-worker.js",
+    "static/css/main.99d9231b.chunk.css.map": "/paginated-table-github-pages/static/css/main.99d9231b.chunk.css.map",
+    "static/media/Header.module.css": "/paginated-table-github-pages/static/media/hero.be0d1f2b.jpg"
   }
 }
