@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/paginated-table-github-pages/precache-manifest.41591b345ff1a66d785af5b1323246df.js"
+  "/paginated-table-github-pages/precache-manifest.020d578632961384aee1a8f335b7f1f4.js"
 );
 
 self.addEventListener('message', (event) => {
